@@ -1,4 +1,4 @@
-# Bank Application
+# Bank Application Interface
 
 ## Overview
 This is a simple command-line based Bank Application written in Java. The program allows users to access their bank account by entering their name and customer ID. Once logged in, users can check their balance, deposit money, withdraw money, and view their previous transaction.
